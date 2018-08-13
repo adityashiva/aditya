@@ -19,5 +19,8 @@ public class ServletLogin extends HttpServlet {
         if (s1.equals(s)&&s2.equals(p)){
             pp.println("Welcome to the"+ s);
         }
+        System.out.println("git");
+        System.out.println("git");
+
     }
 }
