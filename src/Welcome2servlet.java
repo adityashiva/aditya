@@ -37,6 +37,7 @@ public class Welcome2servlet extends HttpServlet {
 
 
         }
+        System.out.println("test");
 
 
 
